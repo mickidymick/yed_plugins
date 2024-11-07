@@ -445,3 +445,6 @@
 [submodule "ypm_plugins/lsp_symbol_buffer"]
 	path = ypm_plugins/lsp_symbol_buffer
 	url = https://github.com/mickidymick/lsp_symbol_buffer.git
+[submodule "ypm_plugins/flame_graph"]
+	path = ypm_plugins/flame_graph
+	url = https://github.com/kammerdienerb/yed-flame_graph
