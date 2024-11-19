@@ -385,9 +385,6 @@
 [submodule "ypm_plugins/yule_2022"]
 	path = ypm_plugins/yule_2022
 	url = https://github.com/kammerdienerb/yed-yule_2022
-[submodule "ypm_plugins/word_wrap"]
-	path = ypm_plugins/word_wrap
-	url = https://github.com/benbenolson/word_wrap.git
 [submodule "ypm_plugins/lang/csharp"]
 	path = ypm_plugins/lang/csharp
 	url = https://github.com/kammerdienerb/yed-lang-csharp
@@ -448,3 +445,6 @@
 [submodule "ypm_plugins/flame_graph"]
 	path = ypm_plugins/flame_graph
 	url = https://github.com/kammerdienerb/yed-flame_graph
+[submodule "ypm_plugins/word_wrap"]
+	path = ypm_plugins/word_wrap
+	url = https://github.com/matthew-olson-intel/word_wrap
